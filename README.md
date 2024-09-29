@@ -1,8 +1,14 @@
 # Rot13_awk
 
-## usage
+## Usage
 
 ```shell
 $ echo "hello, world!" | awk -f .\rot13.awk
 uryyb, jbeyq!
 ```
+
+## License
+MIT
+
+## Author
+Kenta Goto
